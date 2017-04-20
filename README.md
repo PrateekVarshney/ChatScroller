@@ -7,7 +7,7 @@ Change fonts, colours, edges or set time after which messages destory themselves
 
 ![Screenshot 1](https://prateekvarshney.000webhostapp.com/ChatScroller/Screenshot1.png "Screenshot 1")
 
-<br/>
+
 # Contents
 * [Getting Started](#getting-started)
 * [Requirements](#requirements)
